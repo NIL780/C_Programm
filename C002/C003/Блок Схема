@@ -1,0 +1,11 @@
+Console.Write("Введите имя пользователя: ");
+String UserName = Console.ReadLine();
+if (UserName=="Maria")
+{
+    Console.WriteLine("Ура, это Маша");
+}
+else
+{
+    Console.Write("Hello!");
+    Console.WriteLine(UserName);
+}

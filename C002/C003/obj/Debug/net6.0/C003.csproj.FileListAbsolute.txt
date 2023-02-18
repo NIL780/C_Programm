@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\bin\Debug\net6.0\C003.exe
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\bin\Debug\net6.0\C003.deps.json
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\bin\Debug\net6.0\C003.runtimeconfig.json
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\bin\Debug\net6.0\C003.dll
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\bin\Debug\net6.0\C003.pdb
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.AssemblyInfo.cs
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.dll
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\refint\C003.dll
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.pdb
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\C003.genruntimeconfig.cache
+C:\Users\User\Desktop\GB ДЗ\Programm_C\C1\C_Programm\C002\C003\obj\Debug\net6.0\ref\C003.dll
